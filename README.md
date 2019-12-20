@@ -1,0 +1,1 @@
+# Least-Weight-Seam-Carving-Algorithm-for-Images-in-Python
